@@ -1,4 +1,5 @@
-# zetatrack
+![440x280i](https://user-images.githubusercontent.com/88046770/204434602-687036f0-130b-4056-883a-f70c5c38f496.png)
+
 
 Chrome extension that tracks scores in zetamac arithmetic game (default settings) in a provided google sheet.
 Requires the addition of a google auth web-app api key in the manifest.
