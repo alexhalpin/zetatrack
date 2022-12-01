@@ -37,8 +37,6 @@ function displayErrorOnTab(tabId, error) {
 
 function displayError(error) {
   var div = document.createElement("div");
-  // div.style.height = "100px";
-  // div.style.minWidth = "100px";
   div.style.display = "inline-block";
   div.style.backgroundColor = "red";
   div.style.color = "white";

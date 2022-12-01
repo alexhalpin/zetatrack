@@ -19,7 +19,7 @@
      "service_worker": "background.js"
   },
   "oauth2": {
-     "client_id": "bruh",
+     "client_id": "xxxxxx",
      "scopes": [
         "openid", "email", "profile", 
         "https://www.googleapis.com/auth/drive",
@@ -27,10 +27,8 @@
      ]
   },
   "permissions": [
-    "tabs",
     "identity",
     "webRequest",
-    "declarativeNetRequest",
     "storage",
     "scripting"
   ],
